@@ -1,9 +1,9 @@
 ## <font style="color:rgb(31, 35, 40);">SARC: Sentiment-Augmented Deep Role Clustering for Fake News Detection</font>
 
 <font style="color:rgb(31, 35, 40);">  
-</font><font style="color:rgb(31, 35, 40);">This work is being submitted to the WSDM, and it will be gradually improved based on the feedback.</font>
+</font><font style="color:rgb(31, 35, 40);">This project contains the source code for the work "SARC: Sentiment-Augmented Deep Role Clustering for Fake News Detection", which has been accepted by WSDM 2026.</font>
 
-**<font style="color:rgb(31, 35, 40);">Authors</font>**<font style="color:rgb(31, 35, 40);">：Jingqing Wang, Jiaxing Shang, Rong Xu, Fei Hao, Tianjin Huang and Geyong Min</font>
+**<font style="color:rgb(31, 35, 40);">Authors</font>**<font style="color:rgb(31, 35, 40);">：Jingqing Wang, Jiaxing Shang*, Rong Xu, Fei Hao, Tianjin Huang and Geyong Min</font>
 
 **<font style="color:rgb(31, 35, 40);">Reference：</font>**<font style="color:rgb(31, 35, 40);">J. Wang, J. Shang, R. Xu, F. Hao, T. Huang and G. Min, "SARC: Sentiment-Augmented Deep Role Clustering for Fake News Detection," in Proceedings of the 2026 ACM Web Conference (WSDM '26), 2026,（accepted）</font>
 
